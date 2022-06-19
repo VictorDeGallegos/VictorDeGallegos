@@ -2,7 +2,7 @@
   <img  width="250px" height="250px" src="https://user-images.githubusercontent.com/41756950/157113862-00b299a3-9298-4ff0-8907-ecd2f085324c.PNG"   />
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Victor</h1>
+<h1 align="center">Hi, I'm Victor</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Mexico 🇲🇽.</h3>
 
 
