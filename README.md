@@ -1,27 +1,36 @@
-<h1 align="center">Hi 👋, I'm Victor Gallegos</h1>
-
-<h3 align="center">A passionate fullstack developer from Mexico 🇲🇽</h3> 
-<p align="center">
-<a  href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=VictorDeGallegos">   <a href="https://github.com/rafacdomin/?tab=follow">
-    <img src="https://img.shields.io/github/followers/VictorDeGallegos?label=Follow&style=social" />
-  </a>
-  
-</p>
+![header-img](https://user-images.githubusercontent.com/41756950/192904367-af9145d4-c4b1-44bc-923c-8bbfb9e1ccf8.png)
 
 <body>
   <img align="right" alt="Coding"  width="421px" height="auto" src="https://user-images.githubusercontent.com/41756950/157113862-00b299a3-9298-4ff0-8907-ecd2f085324c.PNG"   />
 
 ## About Me 👨🏻‍💻
+<a  href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=VictorDeGallegos">   <a href="https://github.com/rafacdomin/?tab=follow">
+    <img src="https://img.shields.io/github/followers/VictorDeGallegos?label=Follow&style=social" />
+  </a>
+  
+- 🙋🏻‍♂️ I’m studying Computer Science at **[Facultad de Ciencias](https://www.fciencias.unam.mx/)**
 
-- 🙋🏻‍♂️ I’m studying Computer Science at **[Facultad de Ciencias](https://www.fciencias.unam.mx/)** ![81%](https://progress-bar.dev/81/?&width=85&suffix=%&scale=100)
 - 🧠 Learning **Data Structures and Algorithms.**
 
 - 😍 Passionate about **Web development**
 
 - 💼 All of my projects are available at **[My Portfolio](https://victordegallegos.github.io/My-portfolio/)**
 
-- 📹 My little YouTube **[Channel](https://www.youtube.com/channel/UCPgYaf3MQe_6MZoe3ZbSxlw)**
+
+<H2 align="left">
+Connect with me:
+</H2>
+<p align="left">
+<a href="https://gitlab.com/VictorDeGallegos" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" alt="julsvazquez" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/15909622/victor-de-gallegoss" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Stack_Overflow_icon-icons.com_66761.png" alt="julsvazquez" height="30" width="30" /></a>
+<a href="https://twitter.com/De_Gallegos_" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="@De_Gallegos" height="30" width="30" /></a>
+<a href="https://www.instagram.com/victor_de_gallegos/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="no.compila" height="30" width="30" /></a>
+<a href="https://www.instagram.com/victor_de_gallegos/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="no.compila" height="30" width="30" /></a>
+</p>
+<p align="center">
+  </p>
+</H2>
 
 ## Languages and Tools 🛠
 
@@ -98,18 +107,4 @@
 
 <br/>
 <br/>
-
-<H2 align="center">
-Connect with me:
-</H2>
-<p align="center">
-<a href="https://gitlab.com/VictorDeGallegos" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" alt="julsvazquez" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/15909622/victor-de-gallegoss" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Stack_Overflow_icon-icons.com_66761.png" alt="julsvazquez" height="30" width="30" /></a>
-<a href="https://twitter.com/De_Gallegos_" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="@De_Gallegos" height="30" width="30" /></a>
-<a href="https://www.instagram.com/victor_de_gallegos/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="no.compila" height="30" width="30" /></a>
-<a href="https://www.instagram.com/victor_de_gallegos/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="no.compila" height="30" width="30" /></a>
-</p>
-<p align="center">
-  </p>
-</H2>
 </body>
