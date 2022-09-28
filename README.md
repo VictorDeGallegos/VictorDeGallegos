@@ -1,8 +1,16 @@
-# Hi, I'm Victor de Gallegos 👋
-  <img align="right"  width="421px" height="auto" src="https://user-images.githubusercontent.com/41756950/157113862-00b299a3-9298-4ff0-8907-ecd2f085324c.PNG"   />
-  
-### Full Stack Developer from Mexico 🇲🇽.
+<h1 align="center">Hi 👋, I'm Victor Gallegos</h1>
 
+<h3 align="center">A passionate fullstack developer from Mexico 🇲🇽</h3> 
+<p align="center">
+<a  href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=VictorDeGallegos">   <a href="https://github.com/rafacdomin/?tab=follow">
+    <img src="https://img.shields.io/github/followers/VictorDeGallegos?label=Follow&style=social" />
+  </a>
+  
+</p>
+
+<body>
+  <img align="right" alt="Coding"  width="421px" height="auto" src="https://user-images.githubusercontent.com/41756950/157113862-00b299a3-9298-4ff0-8907-ecd2f085324c.PNG"   />
 
 ## About Me 👨🏻‍💻
 
@@ -61,7 +69,7 @@
 * [Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://www.cloudskillsboost.google/public_profiles/dfefc8af-f17c-47dd-a3f2-0cfaaebfac05/badges/2582824)   <a style="padding-right:8px;" href="https://www.cloudskillsboost.google/public_profiles/dfefc8af-f17c-47dd-a3f2-0cfaaebfac05/badges/2582824" target="_blank(https://www.npmjs.com/)"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" width="20" height="20"/> </a>
 * [Google Cloud Computing Foundations: Infrastructure in Google Cloud](https://www.cloudskillsboost.google/public_profiles/dfefc8af-f17c-47dd-a3f2-0cfaaebfac05/badges/2594524)  <a style="padding-right:8px;" href="https://www.cloudskillsboost.google/public_profiles/dfefc8af-f17c-47dd-a3f2-0cfaaebfac05/badges/2594524" target="_blank(https://www.npmjs.com/)"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" width="20" height="20"/> </a>
 * [+10 Certificates in Platzi](https://platzi.com/p/31616045640/) <a> <img src="https://static.platzi.com/static/images/footer/logo.png" width="50" height="20"/> </a>
-* [Introduccion a las habilidades digitales](https://disruptivo.tv/wp-content/uploads/2020/06/Logo-ANUIES.png) <a> <img src="https://disruptivo.tv/wp-content/uploads/2020/06/Logo-ANUIES.png" width="20" height="20"/> </a>
+* [Introduccion a las habilidades digitales](https://santander.skills.anuies.mx/mod/customcert/verify_certificate.php?contextid=219837&code=wRrb8HxQfO&qrcode=1) <a> <img src="https://disruptivo.tv/wp-content/uploads/2020/06/Logo-ANUIES.png" width="20" height="20"/> </a>
 
 ## My Github Streak 🔥
 
@@ -84,7 +92,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/VictorDeGallegos/github-readme-activity-graph"><img alt="VictorDeGallegos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VictorDeGallegos&bg_color=0D1117&color=0ab2ec&line=2dbc84&point=FFFFFF&hide_border=true" /></a>
+## My Github Activity 📈
+<a href="https://github.com/VictorDeGallegos/github-readme-activity-graph"><img alt="VictorDeGallegos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VictorDeGallegos&bg_color=0D1117&color=0ab2ec&line=2dbc84&point=FFFFFF&hide_border=true&theme=algolia" /></a>
+
 
 <br/>
 <br/>
@@ -100,10 +110,6 @@ Connect with me:
 <a href="https://www.instagram.com/victor_de_gallegos/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="no.compila" height="30" width="30" /></a>
 </p>
 <p align="center">
-<br>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=VictorDeGallegos">
-</a> 
-  <a href="mailto:316160456@ciencias.unam.mx?Subject=Interesado%20en%20trabajar%20contigo"><img src="https://img.shields.io/github/followers/VictorDeGallegos?label=Followers&style=social" alt="GitHub Badge"></a>
   </p>
 </H2>
+</body>
