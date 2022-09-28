@@ -26,7 +26,10 @@ Connect with me:
 <a href="https://stackoverflow.com/users/15909622/victor-de-gallegoss" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Stack_Overflow_icon-icons.com_66761.png" alt="julsvazquez" height="30" width="30" /></a>
 <a href="https://twitter.com/De_Gallegos_" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="@De_Gallegos" height="30" width="30" /></a>
 <a href="https://www.instagram.com/victor_de_gallegos/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="no.compila" height="30" width="30" /></a>
-<a href="https://www.instagram.com/victor_de_gallegos/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="no.compila" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCPgYaf3MQe_6MZoe3ZbSxlw" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="no.compila" height="30" width="30" /></a>
+<!-- youtube -->
+<a href="https://www.instagram.com/victor_de_gallegos/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" alt="youtube" height="30" width="30" /></a>
+
 </p>
 <p align="center">
   </p>
@@ -83,18 +86,18 @@ Connect with me:
 ## My Github Streak 🔥
 
 <p align="center">
-    <a href="https://github.com/VictorDeGallegos/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="VictorDeGallegos's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorDeGallegos&theme=algolia&hide_border=true&border_radius=20&stroke=0000&bg_color=0D1117"/>
-    </a>
+  <img width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorDeGallegos&theme=algolia&border_radius=20" alt="VictorDeGallegos" />
 </p>
+
 
 ## My Github Stats 📊
 
-  <br/>
+
+  
   <p align="center">
-  <a href="https://github.com/VictorDeGallegos/github-readme-stats"><img alt="VictorDeGallegos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VictorDeGallegos&show_icons=true&count_private=true&theme=algolia&hide_border=true&border_radius=20" /></a>
-  <a href="https://github.com/VictorDeGallegos/github-readme-stats"><img alt="VictorDeGallegos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDeGallegos&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&border_radius=20" /></a>
-  <br/>
+  <img width="415em" src="https://github-readme-stats.vercel.app/api?username=VictorDeGallegos&show_icons=true&locale=en&theme=algolia&border_radius=20"                alt="VictorDeGallegos"/>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorDeGallegos&show_icons=true&locale=en&layout=compact&langs_count=8&&theme=algolia&border_radius=20" alt="VictorDeGallegos"/>
+</p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
