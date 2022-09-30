@@ -17,6 +17,8 @@
 
 - 💼 All of my projects are available at **[My Portfolio](https://victordegallegos.github.io/My-portfolio/)**
 
+- 📄 My profesional **[CV](https://victordegallegos.github.io/CV/)**
+
 
 <H2 align="left">
 Connect with me:
