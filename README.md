@@ -31,6 +31,8 @@ Connect with me:
 <a href="https://www.youtube.com/channel/UCPgYaf3MQe_6MZoe3ZbSxlw" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="no.compila" height="30" width="30" /></a>
 <!-- youtube -->
 <a href="https://www.instagram.com/victor_de_gallegos/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" alt="youtube" height="30" width="30" /></a>
+<!-- linkedin -->
+<a href="https://mx.linkedin.com/in/victor-hugo-gallegos-mota-462102253?trk=profile-badge" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="linkedin" height="30" width="30" /></a>
 
 </p>
 <p align="center">
